@@ -1,0 +1,383 @@
+[
+	{
+		"name":"Space"
+	},
+	{
+		"name":"Mexico"
+	},
+	{
+		"name":"Ancient Greece"
+	},
+	{
+		"name":"New York"
+	},
+	{
+		"name":"Paris"
+	},
+	{
+		"name":"World War I or II"
+	},
+	{
+		"name":"Zombie Apocalypsis"
+	},
+	{
+		"name":"Bogotá"
+	},
+	{
+		"name":"Rio de Janeiro"
+	},
+	{
+		"name":"Moscow"
+	},
+	{
+		"name":"Madrid"
+	},
+	{
+		"name":"Desertic place"
+	},
+	{
+		"name":"Forest"
+	},
+	{
+		"name":"A Kid's Room"
+	},
+	{
+		"name":"Post-human Earth"
+	},
+	{
+		"name":"Solitary World"
+	},
+	{
+		"name":"Alien Invasion"
+	},
+	{
+		"name":"Ocean"
+	},
+	{
+		"name":"Moon"
+	},
+	{
+		"name":"Mars"
+	},
+	{
+		"name":"World War III"
+	},
+	{
+		"name":"Peaceful World"
+	},
+	{
+		"name":"High Tech City, Community or World"
+	},
+	{
+		"name":"City Divided by a Wall"
+	},
+	{
+		"name":"High Tech City, Community or World"
+	},
+	{
+		"name":"The Hell"
+	},
+	{
+		"name":"Ancient Egypt"
+	},
+	{
+		"name":"America's Discovering"
+	},
+	{
+		"name":"Ancient Damascus"
+	},
+	{
+		"name":"The Great Wall"
+	},
+	{
+		"name":"Jerusalem"
+	},
+	{
+		"name":"Industrial revolution. London"
+	},
+	{
+		"name":"French Revolution"
+	},
+	{
+		"name":"Russian Revolution"
+	},
+	{
+		"name":"A grandma's house"
+	},
+	{
+		"name":"A house"
+	},
+	{
+		"name":"Roma"
+	},
+	{
+		"name":"South Pole"
+	},
+	{
+		"name":"North Pole"
+	},
+	{
+		"name":"North Korea"
+	},
+	{
+		"name":"The Caribbean"
+	},
+	{
+		"name":"An Abandoned Ship"
+	},
+	{
+		"name":"An Abandonde City"
+	},
+	{
+		"name":"Titanic"
+	},
+	{
+		"name":"Africa"
+	},
+	{
+		"name":"Chernobyl"
+	},
+	{
+		"name":"Soviet Union"
+	},
+	{
+		"name":"Barcelona"
+	},
+	{
+		"name":"Amsterdam"
+	},
+	{
+		"name":"The ISS. International Space Station"
+	},
+	{
+		"name":"A car"
+	},
+	{
+		"name":"A house next to a lake"
+	},
+	{
+		"name":"A tree"
+	},
+	{
+		"name":"A kinder garden"
+	},
+	{
+		"name":"Munich"
+	},
+	{
+		"name":"Switzerland"
+	},
+	{
+		"name":"The times of Leonardo Da Vinci"
+	},
+	{
+		"name":"The Bogotazo"
+	},
+	{
+		"name":"Cali, Colombia"
+	},
+	{
+		"name":"A train"
+	},
+	{
+		"name":"A mall"
+	},
+	{
+		"name":"A small town"
+	},
+	{
+		"name":"Inside the human body"
+	},
+	{
+		"name":"Inside an animal's body"
+	},
+	{
+		"name":"An Earth-like world"
+	},
+	{
+		"name":"The cold war"
+	},
+	{
+		"name":"A stadium"
+	},
+	{
+		"name":"Cartagena, Colombia"
+	},
+	{
+		"name":"The Burj Al Arab"
+	},
+	{
+		"name":"A concert"
+	},
+	{
+		"name":"Woodstock"
+	},
+	{
+		"name":"A university"
+	},
+	{
+		"name":"A school"
+	},
+	{
+		"name":"An office"
+	},
+	{
+		"name":"The Kremlin"
+	},
+	{
+		"name":"A call center"
+	},
+	{
+		"name":"Nagasaki"
+	},
+	{
+		"name":"Pearl Harbor"
+	},
+	{
+		"name":"The medical wars (between Greece and Persia)"
+	},
+	{
+		"name":"Roman Empire"
+	},
+	{
+		"name":"Napoleonic Wars"
+	},
+	{
+		"name":"The dinosaur era"
+	},
+	{
+		"name":"The mongolian invasion"
+	},
+	{
+		"name":"Vietnam war"
+	},
+	{
+		"name":"The crusades"
+	},
+	{
+		"name":"The balcanic wars"
+	},
+	{
+		"name":"The american independency war"
+	},
+	{
+		"name":"The 100 years war"
+	},
+	{
+		"name":"The illustration"
+	},
+	{
+		"name":"The encyclopedism"
+	},
+	{
+		"name":"Han dynasty, China"
+	},
+	{
+		"name":"Venice, Italy"
+	},
+	{
+		"name":"America, 1492"
+	},
+	{
+		"name":"Florence, Italy"
+	},
+	{
+		"name":"Bombai, India"
+	},
+	{
+		"name":"Los Angeles"
+	},
+	{
+		"name":"The frontier between Mexico and USA"
+	},
+	{
+		"name":"The western"
+	},
+	{
+		"name":"A casino"
+	},
+	{
+		"name":"A hospital"
+	},
+	{
+		"name":"A soccer match"
+	},
+	{
+		"name":"A TV set"
+	},
+	{
+		"name":"A haunted house"
+	},
+	{
+		"name":"A very old kingdom"
+	},
+	{
+		"name":"A kingdom"
+	},
+	{
+		"name":"The Suiss Alps"
+	},
+	{
+		"name":"The Empire State"
+	},
+	{
+		"name":"The Taj Mahal"
+	},
+	{
+		"name":"The Twin Towers"
+	},
+	{
+		"name":"Sidney, Australia"
+	},
+	{
+		"name":"Argentina"
+	},
+	{
+		"name":"Venezuela"
+	},
+	{
+		"name":"Yemen"
+	},
+	{
+		"name":"Poland"
+	},
+	{
+		"name":"The Mediterranean Sea"
+	},
+	{
+		"name":"A yatch"
+	},
+	{
+		"name":"The MIT"
+	},
+	{
+		"name":"Stonehenge"
+	},
+	{
+		"name":"Machu Picchu"
+	},
+	{
+		"name":"A rain of meteorites"
+	},
+	{
+		"name":"Chichen Itza"
+	},
+	{
+		"name":"Salt Cathedral of Zipaquirá, Colombia"
+	},
+	{
+		"name":"The river Cali, Cali, Colombia"
+	},
+	{
+		"name":"The Great Pyramid of Giza, Egypt"
+	},
+	{
+		"name":"A plantation"
+	},
+	{
+		"name":"The mosque of Córdoba, Spain"
+	},
+	{
+		"name":"Sao Paulo, Brazil"
+	}
+]

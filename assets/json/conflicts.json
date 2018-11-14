@@ -1,0 +1,82 @@
+[
+	{
+		"name":"Search",
+		"description":"Something important (tangible or intangible) is lost. The hero must find it."
+	},
+	{
+		"name":"Adventure",
+		"description":"It is the search of something unknown and inusual. The most important is the trip."
+	},
+	{
+		"name":"Chasing",
+		"description":"Something chases the hero. Something real or imaginary. Maybe a person.. maybe a nightmare."
+	},
+	{
+		"name":"Rescue",
+		"description":"The hero must rescue somebody. The formula is Hero + Antagonist + Victim."
+	},
+	{
+		"name":"Escape",
+		"description":"The hero must escape, sometimes with the help of ohers, from a place where he/she is being kept locked, sometimes by unjust reasons."
+	},
+	{
+		"name":"Revenge",
+		"description":"A wronged character seeks retribution against the character or organization which has betrayed or otherwise harmed them or loved ones, physically or emotionally. This plot depends on moral outrage for gaining sympathy from the audience."
+	},
+	{
+		"name":"Puzzle",
+		"description":"Puzzles can only be solved with intelligence. The challenge is to find the right elements that solve the problem."
+	},
+	{
+		"name":"Rivalry",
+		"description":"There's an equivalent person/team that competes for your same objective. There are equal conditions, but sometimes, the power of one of both sides is dimminished."
+	},
+	{
+		"name":"Underdog",
+		"description":"There's someone/something more powerful than the hero. The hero is always in disadvantage. Will he win?"
+	},
+	{
+		"name":"Temptation",
+		"description":"In this plot, a character is tempted by something that, if taken, would somehow diminish them, often morally. Their battle is thus internal, fighting against their inner voices which tell them to succumb."
+	},
+	{
+		"name":"Metamorphosis",
+		"description":"In this fantastic plot, the protagonist is physically transformed, perhaps into beast or perhaps into some spiritual or alien form. The story may then continue with the changed character struggling to be released or to use their new form for some particular purpose. Eventually, the hero is released, perhaps through some great act of love."
+	},
+	{
+		"name":"Transformation",
+		"description":"The hero faces a difficult time in his life. He must trascend. He must change the way he thinks or acts in order to grow."
+	},
+	{
+		"name":"Maturation",
+		"description":"The hero is young and confused about the life, and he must grow both mentally and physically. He may also be a mature character that re-finds his/her purpose"
+	},
+	{
+		"name":"Love",
+		"description":"\" The love that hasn't been put to test is not true \". The lovers find each other, then separate and finally come back with a happy ending."
+	},
+	{
+		"name":"Forbidden Love",
+		"description":"The love between the lovers must face problems with political tendencies, social status, economic status, race or age."
+	},
+	{
+		"name":"Sacrifice",
+		"description":"The hero must offer something very special that belongs to him, and no other character would offer in his position, in order to solve a problem. The hero may not start with the intent of personal sacrifice and may thus be an unintentional hero, thus emphasizing the heroic nature of the choice and act."
+	},
+	{
+		"name":"Discover",
+		"description":"The hero discovers something great or terrible and must make a difficult choice. The importance of the discovery might not be known at first and the process of revelation be important to the story."
+	},
+	{
+		"name":"Wretched Excess",
+		"description":"In stories of wretched excess, the protagonist goes beyond normally accepted behavior as the world looks on, horrified."
+	},
+	{
+		"name":"Ascension",
+		"description":"The protagonist starts in the virtual gutter, as a sinner of some kind. The plot then shows their ascension to becoming a better person, often in response to stress that would defeat a normal person. Thus they achieve deserved heroic status."
+	},
+	{
+		"name":"Descension",
+		"description":"A character of initially high standing descends to the gutter and moral turpitude, perhaps sympathetically as they are unable to handle stress."
+	}
+]

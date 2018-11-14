@@ -1,0 +1,29 @@
+[
+	{
+		"name":"Consoles"
+	},
+	{
+		"name":"PC"
+	},
+	{
+		"name":"Linux"
+	},
+	{
+		"name":"Mac"
+	},
+	{
+		"name":"Android"
+	},
+	{
+		"name":"iOS"
+	},
+	{
+		"name":"Windows Phone"
+	},
+	{
+		"name":"Firefox OS"
+	},
+	{
+		"name":"Web"
+	}
+]
