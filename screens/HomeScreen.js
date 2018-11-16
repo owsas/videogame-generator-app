@@ -1,21 +1,20 @@
 import React from 'react';
 import {
-  Image,
   Platform,
   ScrollView,
   StyleSheet,
   Text,
-  TouchableOpacity,
-  View,
+  Button,
+  View
 } from 'react-native';
 import { WebBrowser } from 'expo';
 import VideogameGenerator from '../controllers/VideogameGenerator';
 import Videogame from '../components/Videogame';
-import { BaseButton } from 'react-native-gesture-handler';
+import { Icon } from 'expo';
 
 export default class HomeScreen extends React.Component {
   static navigationOptions = {
-    title: 'Generator',
+    title: 'Generator'
   };
 
   state = {};
@@ -32,11 +31,15 @@ export default class HomeScreen extends React.Component {
     const { videogame } = this.state;
 
     return (
-      <View style={[styles.container, styles.containerPadding]}>
-        {videogame && <Videogame videogame={videogame} />}
-        {!videogame && <Text>Generating ...</Text>}
-        <BaseButton onPress={this.getNewVideogame} title="Generate!" />
-      </View>
+      <ScrollView style={{ minHeight: '100%', backgroundColor: 'white' }}>
+        <View style={{ padding: 20, backgroundColor: '#34495e' }}> 
+          <Button onPress={this.getNewVideogame} title="Generate new one!" />
+        </View>
+        <View style={[styles.container, styles.containerPadding]}>
+          {videogame && <Videogame videogame={videogame} />}
+          {!videogame && <Text>Generating ...</Text>}
+        </View>
+      </ScrollView>
     );
   }
 
@@ -81,6 +84,7 @@ const styles = StyleSheet.create({
   },
   containerPadding: {
     padding: 10,
+    paddingBottom: 40,
   },
   developmentModeText: {
     marginBottom: 20,

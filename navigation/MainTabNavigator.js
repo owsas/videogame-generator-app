@@ -6,6 +6,7 @@ import TabBarIcon from '../components/TabBarIcon';
 import HomeScreen from '../screens/HomeScreen';
 import LinksScreen from '../screens/LinksScreen';
 import AboutScreen from '../screens/AboutScreen';
+import ConflictsScreen from '../screens/ConflictsScreen';
 
 const HomeStack = createStackNavigator({
   Home: HomeScreen,
@@ -24,6 +25,14 @@ HomeStack.navigationOptions = {
 const LinksStack = createStackNavigator({
   Links: LinksScreen,
 });
+
+const ConflictsStack = createStackNavigator({
+  Conflicts: ConflictsScreen,
+});
+
+ConflictsStack.navigationOptions = {
+  tabBarLabel: 'Conflicts'
+}
 
 LinksStack.navigationOptions = {
   tabBarLabel: 'Resources',
@@ -51,6 +60,5 @@ SettingsStack.navigationOptions = {
 
 export default createBottomTabNavigator({
   HomeStack,
-  LinksStack,
   SettingsStack,
 });
